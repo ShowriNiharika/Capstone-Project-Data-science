@@ -3,7 +3,7 @@
 ## Team
 
  - **Showri Niharika Yeruva**
- - **Sowmya Kasireddy**
+ - **Soumya Kasireddy**
  - **Hari Krishna Edvalapati**
 
 
